@@ -1,4 +1,4 @@
-![GitHub Logo](/images/SafeWalkCrop.jpg | width=500)
+![GitHub Logo](/images/SafeWalkCrop.jpg|width=500px)
 
 # NationalStreetViewPerceptions
 Scripts and datasets for creating national US estimates of street view perceptions
