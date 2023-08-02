@@ -1,2 +1,21 @@
-# NationalStreetViewPerceptions
-Scripts and datasets for creating national US estimates of street view perceptions
+# Mturk Perceptions
+
+**Summary** <br>
+Perception and demographic data collected from Amazon Mechanical Turk (AMT).  This file also includes Jupyter notebooks for analysis.  Steps include:
+1) Collecting data from participants
+2) Normalizing records by participant propensity for slider placement (see external link below for more details)
+3) Removing surveys where the QA question was incorrectly answered
+4) Create summary statistics and test for perception differences across demographics and geographical location
+
+**Scripts** <br>
+- **[CalcMTurkDiffs.ipynb]()** - calculate differences in perceptions between left and right images in am image comparison
+- **[MTurkForestPlots.ipynb]()** - create forest plots for each perception, with each row of the forest plot corresponding to a difference demographic classification level
+- **[MTurkRegression.R]()** - test for significant differences between geography and demographics using multivariate linear regression
+
+**Files** <br>
+- **[Amazon Mechanical Turk Demographic Questions.docx]()** - specific wording used to collect demographic questions from AMT participants
+- **[Meta_link.csv]()** - table to join image classification codes with mechanical turk records
+- **[MTurk_Data_Dictionary_Aug2_23.xlsx]()** - data dictionary for mechanical turk records
+- **[MTurk_Records_May11_21.csv]()** - perception records from AMT, after removing records that did not pass QA screening
+
+**External links**
