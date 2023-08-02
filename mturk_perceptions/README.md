@@ -6,7 +6,7 @@
 Perception and demographic data collected from Amazon Mechanical Turk (AMT).  This file also includes Jupyter notebooks for analysis.  Steps include:
 1) Collecting data from participants
 2) Normalizing records by participant propensity for slider placement (see external link below for more details)
-3) Removing surveys where the QA question was incorrectly answered
+3) Removing records where the QA question was incorrectly answered
 4) Create summary statistics and test for perception differences across demographics and geographical location
 
 **Scripts** <br>
