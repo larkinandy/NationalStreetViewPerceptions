@@ -16,5 +16,6 @@ Strategy for sampling Google Street View Images to maximize the variation in urb
 
 **Files** <br>
 - **[GSV_screened_images.csv](https://github.com/larkinandy/NationalStreetViewPerceptions/blob/main/files/GSV_screened_images.csv)** - sampled panoids and corresponding metadata.
+- **[GSV_screened_images_data_dictionary.xlsx](https://github.com/larkinandy/NationalStreetViewPerceptions/blob/main/files/GSV_screened_images_data_dictionary.xlsx)** - data dictionary for the screened images dataset
 
 
