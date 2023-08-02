@@ -10,7 +10,7 @@ Perception and demographic data collected from Amazon Mechanical Turk (AMT).  Th
 4) Create summary statistics and test for perception differences across demographics and geographical location
 
 **Scripts** <br>
-- **[CalcMTurkDiffs.ipynb]()** - calculate differences in perceptions between left and right images in am image comparison
+- **[CalcMTurkDiffs.ipynb](https://github.com/larkinandy/NationalStreetViewPerceptions/blob/main/mturk_perceptions/CalcMTurkDiffs.ipynb)** - calculate differences in perceptions between left and right images in am image comparison
 - **[MTurkForestPlots.ipynb]()** - create forest plots for each perception, with each row of the forest plot corresponding to a difference demographic classification level
 - **[MTurkRegression.R]()** - test for significant differences between geography and demographics using multivariate linear regression
 
