@@ -1,3 +1,5 @@
+<img src = "/images/ParticipantResponsesByCensus.jpg" width="700">
+
 # Mturk Perceptions
 
 **Summary** <br>
