@@ -12,7 +12,7 @@ Strategy for sampling Google Street View Images to maximize the variation in urb
 
 **Scripts** <br>
 - **[getGSVImagesForMTurkv2.ipynb](https://github.com/larkinandy/NationalStreetViewPerceptions/blob/main/GSV_sampling/getGSVImagesForMTurkv2.ipynb)** - Jupyter notebook for downloading GSV images, selecting a subset of images to meet the target range of images for each category, and removing images that were flagged during visual inspection.
-- **[GSVMTurkv2Counts.ipynb]()** - Jupyter notebook for counting number of images per category in the final dataset
+- **[GSVMTurkv2Counts.ipynb](https://github.com/larkinandy/NationalStreetViewPerceptions/blob/main/GSV_sampling/GSVMTurkv2Counts.ipynb)** - Jupyter notebook for counting number of images per category in the final dataset
 
 **Files** <br>
 - **[GSV_screened_images.csv](https://github.com/larkinandy/NationalStreetViewPerceptions/blob/main/files/GSV_screened_images.csv)** - sampled panoids and corresponding metadata.
