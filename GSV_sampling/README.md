@@ -15,6 +15,6 @@ Strategy for sampling Google Street View Images to maximize the variation in urb
 - **[GSVMTurkv2Counts.ipynb]()** - Jupyter notebook for counting number of images per category in the final dataset
 
 **Files** <br>
-- **[GSV_screened_images.csv]()** - sampled panoids and corresponding metadata.
+- **[GSV_screened_images.csv](https://github.com/larkinandy/NationalStreetViewPerceptions/blob/main/files/GSV_screened_images.csv)** - sampled panoids and corresponding metadata.
 
 
