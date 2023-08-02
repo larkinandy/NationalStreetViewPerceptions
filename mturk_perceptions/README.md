@@ -21,3 +21,4 @@ Perception and demographic data collected from Amazon Mechanical Turk (AMT).  Th
 - **[MTurk_Records_May11_21.csv](https://github.com/larkinandy/NationalStreetViewPerceptions/blob/main/files/MTurk_Records_May11_21.csv)** - perception records from AMT, after removing records that did not pass QA screening
 
 **External links**
+- **Related Publications** - https://www.nature.com/articles/s41370-022-00489-8
