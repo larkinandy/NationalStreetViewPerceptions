@@ -16,7 +16,7 @@ This github repository contains datasets and methods to create national US surfa
 **Repository Structure** <br>
 Files are divided into five folders, with each folder corresponding to a unique stage of the study
 
-- **[GSV_sampling](https://github.com/larkinandy/NationalStreetViewPerceptions/tree/master/GSV_sampling)** -create a GSV sampling strategy that maximizes variation in urbanicity and geography  <br>
+- **[GSV_sampling](https://github.com/larkinandy/NationalStreetViewPerceptions/tree/master/GSV_sampling)** - create a GSV sampling strategy that maximizes variation in urbanicity and geography  <br>
 - **[mturk_perceptions](https://github.com/larkinandy/NationalStreetViewPerceptions/tree/master/mturk_perceptions)** - street view perceptions and demographics collected from Amazon Mechanical Turk participants.
 - **[deep_learning_models](https://github.com/larkinandy/NationalStreetViewPerceptions/tree/master/mturk_perceptions)** -create and evaluate Siamese convolutional neural network perception models <br>
 - **[five_cities_comparison](https://github.com/larkinandy/NationalStreetViewPerceptions/tree/master/five_cities)** -create TrueSkill scores for five large cities in the US at census tract, city, and national comparison levels <br>
