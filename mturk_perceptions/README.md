@@ -15,7 +15,7 @@ Perception and demographic data collected from Amazon Mechanical Turk (AMT).  Th
 - **[MTurkRegression.R]()** - test for significant differences between geography and demographics using multivariate linear regression
 
 **Files** <br>
-- **[Amazon Mechanical Turk Demographic Questions.docx](https://github.com/larkinandy/NationalStreetViewPerceptions/blob/main/files/Amazon_Mechanical_Turk_Demographic_Questions.docx)** - specific wording used to collect demographic questions from AMT participants
+- **[Amazon_Mechanical_Turk_Demographic_Questions.docx](https://github.com/larkinandy/NationalStreetViewPerceptions/blob/main/files/Amazon_Mechanical_Turk_Demographic_Questions.docx)** - specific wording used to collect demographic questions from AMT participants
 - **[Meta_link.csv](https://github.com/larkinandy/NationalStreetViewPerceptions/blob/main/files/meta_link.csv)** - table to join image classification codes with mechanical turk records
 - **[MTurk_Data_Dictionary_Aug2_23.xlsx](https://github.com/larkinandy/NationalStreetViewPerceptions/blob/main/files/MTurk_Data_Dictionary_Aug2_23.xlsx)** - data dictionary for mechanical turk records
 - **[MTurk_Records_May11_21.csv](https://github.com/larkinandy/NationalStreetViewPerceptions/blob/main/files/MTurk_Records_May11_21.csv)** - perception records from AMT, after removing records that did not pass QA screening
