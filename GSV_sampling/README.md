@@ -15,8 +15,6 @@ Strategy for sampling Google Street View Images to maximize the variation in urb
 - **[GSVMTurkv2Counts.ipynb]()** - Jupyter notebook for counting number of images per category in the final dataset
 
 **Files** <br>
-GSV_Images.shp - ArcGIS point shapefile with locations, categories (e.g. division) and metadata for images in the final dataset
-unrbanizedAreas.shp - 2010 US Census Urban Areas
-USCensusDivisions.shp - US Census Divisions
+- **[GSV_screened_images.csv]()** - sampled panoids and corresponding metadata.
 
 
