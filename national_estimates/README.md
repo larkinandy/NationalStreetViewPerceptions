@@ -1,4 +1,4 @@
-TODO: add map showing distribution of national estimates.  Maybe one map with multiple panels, one panel for each perception?
+<img src = "/images/MultipleAreasRelaxing.jpg" width="700">
 
 # national estimates
 Scripts and datasets for creating national US estimates of street view perceptions
