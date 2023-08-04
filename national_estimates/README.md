@@ -20,4 +20,4 @@ Methods for calculating TrueSkill scores and creating national US perception sur
 - **[createFocalRasters.py](https://github.com/larkinandy/NationalStreetViewPerceptions/blob/main/national_estimates/createFocalRasters.py)** - create rasters of perception estimates at 500m and 1000m resolution
 
 **Files** <br>
-TODO: insert files, descriptions, and hyperlinks
+Due to restrictions in the Google Street View API user agreement we are unable to provide files that contain perception scores for street view images or at street view locations.  We are looking into whether it is legally permissible to share aggregated averages at the census tract level.  
