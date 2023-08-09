@@ -7,7 +7,7 @@ Scripts and datasets for creating national US estimates of street view perceptio
 **Author:** [Andrew Larkin](https://www.linkedin.com/in/andrew-larkin-525ba3b5/) <br>
 **Affiliation:** [Oregon State University, College of Health](https://health.oregonstate.edu/) <br>
 **Principal Investigator:** [Peter James](https://www.hsph.harvard.edu/profile/peter-james/) <br>
-**Principal Investigator Affliation:** [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/) <br>
+**Principal Investigator Affiliation:** [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/) <br>
 
 
 **Summary** <br>
