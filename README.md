@@ -6,8 +6,8 @@ Scripts and datasets for creating national US estimates of street view perceptio
 
 **Author:** [Andrew Larkin](https://www.linkedin.com/in/andrew-larkin-525ba3b5/) <br>
 **Affiliation:** [Oregon State University, College of Health](https://health.oregonstate.edu/) <br>
-**Principal Investigator:** [Peter James](https://www.hsph.harvard.edu/profile/peter-james/) <br>
-**Principal Investigator Affiliation:** [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/) <br>
+**Principal Investigator:** [Peter James](https://www.populationmedicine.org/pjames) <br>
+**Principal Investigator Affiliation:** [Harvard Medical School](https://hms.harvard.edu) <br>
 
 
 **Summary** <br>
@@ -29,5 +29,6 @@ Files are divided into four folders, with each folder corresponding to a unique 
 - **Amazon Mechanical Turk** - https://www.mturk.com/
 - **Siamese Networks** - https://builtin.com/machine-learning/siamese-network
 - **Microsoft True Skill Score** - https://www.microsoft.com/en-us/research/project/trueskill-ranking-system/
-- **Spatial Health Lab** - https://health.oregonstate.edu/labs/spatial-health
+- **Oregon State University Spatial Health Lab** - https://health.oregonstate.edu/labs/spatial-health
+- **Harvard Spatial and Contextual Exposomics and Epidemiology Laboratory** - https://www.hsph.harvard.edu/space-lab/
 - **Funding:** - TODO: add funding id and link to funding source
