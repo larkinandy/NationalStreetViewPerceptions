@@ -22,7 +22,7 @@ Files are divided into four folders, with each folder corresponding to a unique 
 - **[national surfaces](https://github.com/larkinandy/NationalStreetViewPerceptions/tree/master/national_estimates)** - create TrueSkill scores using deep learning model predictions for 30 million gridded locations across the US <br>
 
 **External Links and Additional Resources**
-- **Publication** - TODO: insert link once published
+- **Publication** - https://pubs.acs.org/doi/full/10.1021/acs.est.5c00966
 - **Related Repositories** - https://github.com/larkinandy/Perceptions_MTurk
 - **Related Publications** - https://www.nature.com/articles/s41370-022-00489-8
 - **Google Street View** - https://en.wikipedia.org/wiki/Google_Street_View
@@ -31,4 +31,4 @@ Files are divided into four folders, with each folder corresponding to a unique 
 - **Microsoft True Skill Score** - https://www.microsoft.com/en-us/research/project/trueskill-ranking-system/
 - **Oregon State University Spatial Health Lab** - https://health.oregonstate.edu/labs/spatial-health
 - **Harvard Spatial and Contextual Exposomics and Epidemiology Laboratory** - https://www.hsph.harvard.edu/space-lab/
-- **Funding:** - TODO: add funding id and link to funding source
+- **Funding:** - P30ES000002, R01HL150119, and 21ES029722
